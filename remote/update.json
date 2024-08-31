@@ -1,0 +1,24 @@
+{
+    "updated_version": 2,
+    "spreadhead": "大标题",
+    "subtitle": "小标题",
+    "update_content": "弹窗其他内容",
+    "buttons": [
+        {
+            "button_name": "在线更新",
+            "url": "文件直链",
+            "model": 1,
+            "button_display": 1
+        },
+        {
+            "button_name": "123盘",
+            "url": "https://www.123pan.com/s/dJLijv-3DFVh.html",
+            "model": 2,
+            "button_display": 1
+        },
+        {
+            "button_name": "关闭",
+            "button_display": 1
+        }
+    ]
+}
