@@ -8,7 +8,7 @@
             "button_name": "在线更新",
             "url": "https://mirror.ghproxy.com/https://github.com/MCSP-Site/MineSync/blob/main/music/歌单-草东没有派对.zip",
             "model": 1,
-            "button_display": 0
+            "button_display": 1
         },
         {
             "button_name": "123盘",
