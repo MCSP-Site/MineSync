@@ -1,8 +1,8 @@
 {
-    "updated_version": 2,
+    "updated_version": 8,
     "spreadhead": "更新弹窗",
     "subtitle": "软件更新辣！",
-    "update_content": "本次重大更新了弹窗问题",
+    "update_content": "本次重大更新了弹窗问题\n更新bug多",
     "buttons": [
         {
             "button_name": "在线更新",
