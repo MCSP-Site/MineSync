@@ -1,12 +1,12 @@
 {
     "updated_version": 2,
-    "spreadhead": "大标题",
-    "subtitle": "小标题",
-    "update_content": "弹窗其他内容",
+    "spreadhead": "更新弹窗",
+    "subtitle": "软件更新辣！",
+    "update_content": "本次重大更新了弹窗问题",
     "buttons": [
         {
             "button_name": "在线更新",
-            "url": "文件直链",
+            "url": "暂时没有",
             "model": 1,
             "button_display": 1
         },
